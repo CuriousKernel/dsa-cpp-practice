@@ -1,4 +1,4 @@
-# 🧩 C++ Data Structures & Algorithms Solutions
+# 🧩 C++ Data Structures & Algorithms Practice Questions & Solutions
 
 My personal collection of Data Structures and Algorithms solutions in C++.
 
