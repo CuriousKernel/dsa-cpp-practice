@@ -6,4 +6,5 @@ My personal collection of Data Structures and Algorithms solutions in C++.
 * **`01-basics/`** - Basic mathematical algorithms
 * **`02-recursion/`** - Recursion & Backtracking
 * **`03-arrays/`** - Array manipulations & searching
+* **`04-hashing/`** - Hashing techniques, frequency counting and lookups
 
